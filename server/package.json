@@ -1,0 +1,28 @@
+{
+  "name": "@memory-builder/server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "pnpm run dev:concurrent",
+    "dev:mongo": "mkdir -p ./.mongodb/data && mongod --dbpath ./.mongodb/data --config /etc/mongod.conf",
+    "dev:server": "tsx watch src/index.ts",
+    "dev:concurrent": "concurrently \"pnpm:dev:mongo\" \"pnpm:dev:server\"",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fastify/cors": "^9.0.0",
+    "@prisma/client": "^6.4.1",
+    "fastify": "^4.26.1",
+    "mongodb": "^6.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "concurrently": "^8.2.2",
+    "prisma": "^6.4.1",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}

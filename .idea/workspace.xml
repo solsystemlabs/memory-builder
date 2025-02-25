@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0c2ee68-40e6-4751-860c-cc72a3cba043" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/test_package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ts_commonjs_default_export.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/memory-builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mongodb-settings-v1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/WiredTiger" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/WiredTiger.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/WiredTiger.turtle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/WiredTiger.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/WiredTigerHS.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/_mdb_catalog.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-0--226231291336550644.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-0--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-11--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-13--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-15--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-18--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-2--226231291336550644.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-2--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-20--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-22--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-23--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-24--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-25--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-31--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-34--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-4--226231291336550644.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-4--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-6--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/collection-8--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/diagnostic.data/metrics.2025-02-23T04-08-12Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/diagnostic.data/metrics.2025-02-23T04-18-21Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/diagnostic.data/metrics.2025-02-23T04-21-21Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/diagnostic.data/metrics.2025-02-23T04-23-55Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/diagnostic.data/metrics.2025-02-23T04-46-12Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/diagnostic.data/metrics.2025-02-23T04-50-39Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/diagnostic.data/metrics.2025-02-23T06-01-25Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/diagnostic.data/metrics.2025-02-23T06-05-09Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/diagnostic.data/metrics.interim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-1--226231291336550644.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-1--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-1--6877381828316512166.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-12--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-14--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-16--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-17--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-19--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-21--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-26--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-27--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-28--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-29--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-3--226231291336550644.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-3--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-30--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-32--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-33--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-35--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-5--226231291336550644.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-5--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-6--226231291336550644.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-7--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/index-9--5747731448920301737.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/mongod.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/sizeStorer.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.mongodb/data/storage.bson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/eslint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/eslint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/memory-builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/memory-builder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/vite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/vite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/assets/react.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/assets/react.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/vite-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/vite-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tsconfig.node.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/tsconfig.node.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-workspace.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-workspace.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/server/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/lib/prisma.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/lib/prisma.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6bd3e7a15bac5c226176c1e1fa6bb7c7c8ad757b" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2tQUgDUEXc7WuH6AMB7BMtvsg0j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;59d5824a&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/foxmc/IdeaProjects/memory-builder&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/home/teernisse/.local/share/nvm/v22.14.0/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0c2ee68-40e6-4751-860c-cc72a3cba043" name="Changes" comment="" />
+      <created>1740283900671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740283900671</updated>
+      <workItem from="1740283901947" duration="137000" />
+      <workItem from="1740284051384" duration="2593000" />
+      <workItem from="1740286685283" duration="357000" />
+      <workItem from="1740288495171" duration="8578000" />
+      <workItem from="1740456708540" duration="769000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1740295009638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740295009638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
